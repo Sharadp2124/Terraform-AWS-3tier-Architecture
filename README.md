@@ -35,3 +35,5 @@ Deploy a three-tier architecture in AWS using Terraform.
 4. deploy a three-tier architecture in AWS using Terraform.
 
 ### Project Diagram-
+
+![alt text](https://github.com/Sharadp2124/Terraform-AWS-3tier-Architecture/blob/main/Terraform-AWS-3tier-Architecture%20Diagram.png).
